@@ -1,3 +1,6 @@
+
+
+
 # Controle de Acesso por Senha (Controle Remoto IR) para Laboratório
 
 Trabalho da VT — N202 Robótica e Automação Inteligentes (Ciência da Computação, 8º período)
@@ -32,7 +35,7 @@ Uma porta com **senha de 4 teclas digitada num controle remoto infravermelho**: 
 ```
 
 ### Máquina de estados
-
+<img width="1409" height="752" alt="Gemini_Generated_Image_ya8sxlya8sxlya8s" src="https://github.com/user-attachments/assets/a1cd105d-3c07-4de8-96cd-5baedf6f9759" />
 
 
 As transições dependem do que os sensores percebem (teclas do controle, botões, porta), e não apenas de uma sequência temporizada.
